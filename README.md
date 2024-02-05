@@ -1,6 +1,8 @@
 # SICK_AG_GettingStarted
 SICK Sensor Intelligence.
 
+![](pictures/SICK_SensorIntelligence.png)
+
 - [About](#about)
     - [Company Description](#company_desc)
     - [Hack Coaches](#hack-coaches)
@@ -21,8 +23,8 @@ From factory automation to logistics automation and process automation, <a href=
 
 ### Hack Coaches<a name="hack-coaches"></a>
 
-- ![Contact Person 1](path/to/person1.jpg) Nikola Horvat - @slack_NikolaHorvat
-- ![Contact Person 2](path/to/person2.jpg) Ingo Koglin - @slack_IngoKoglin
+- ![Contact Person 1](pictures/person1.jpg) Nikola Horvat - @slack_NikolaHorvat
+- ![Contact Person 2](pictures/20240202_myself_transp.png) Ingo Koglin - @slack_IngoKoglin
 
 ## What do we bring<a name="what-we-provide"></a>
 
